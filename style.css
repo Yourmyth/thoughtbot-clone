@@ -100,6 +100,7 @@ text-align: right;
 .sub-links{
     width: 100%;
     margin: 20px 0px;
+    display: inline;
 }
 .sub-links a{
     justify-content: space-between;
@@ -108,13 +109,17 @@ text-align: right;
     color: #ffffff;
     line-height: 18px;
     vertical-align: baseline;
-    padding: 13.5px 18px;
+    padding: 13.5px 8px;
     letter-spacing: -0.18px;
     font-weight: 700;
     text-align: center;
     border: 2px solid;
     border-radius: 40px;
     text-decoration: none;
+    margin: 2px;
+}
+.sub-linksI{
+    color: #FFC726;
 }
 .head{
     font-size: 31.5px;
@@ -214,7 +219,7 @@ text-align: right;
     font-weight: 400;
     text-align: start;
     display: inline;
-    width: 80%;
+    width: 60%;
     border: none;
     text-decoration: underline;
     border-bottom: 2px solid #928a85;
