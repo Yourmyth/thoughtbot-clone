@@ -59,9 +59,13 @@ border-radius: 50px;
 text-align: right;
 }
 .parent {
-    margin: 72px 312.5px 0px;
-padding: 0px 18px 72px;
-text-align: left;
+    margin: auto;
+    padding: 0px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
 }
 .hr {
     height: 1px;
