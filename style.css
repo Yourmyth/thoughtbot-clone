@@ -61,10 +61,10 @@ text-align: right;
 .parent {
     margin: auto;
     padding: 0px;
-    width: 50%;
+    width: 75%;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
 
 }
 .hr {
